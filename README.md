@@ -8,6 +8,10 @@ projeto de estudo de tecnologias Redux e Redux Saga
 
 Na pasta de projeto você pode rodar:
 
+### `yarn`
+
+Para instalar todas as dependencias.
+
 ### `yarn start`
 
 Inicia o projeto em modo desenvolvimento.
